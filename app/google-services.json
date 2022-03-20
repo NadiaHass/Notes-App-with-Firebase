@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "648283586106",
+    "project_id": "notes-app-5595e",
+    "storage_bucket": "notes-app-5595e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:648283586106:android:34281c2408010067927f03",
+        "android_client_info": {
+          "package_name": "com.nadiahassouni.noteswithfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "648283586106-8l719l94bfljkrp182vl9860gjio99hs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZlKumOaoJlKkczCjMOzMbqZUCgn_l6dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "648283586106-8l719l94bfljkrp182vl9860gjio99hs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
